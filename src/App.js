@@ -2,14 +2,14 @@ import React, { Component } from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
-import { Portfolio } from "./Portfolio/Portfolio";
-import { Home } from "./Home/Home";
+import  Portfolio  from "./Portfolio/Portfolio";
+import  Home  from "./Home/Home";
 import "jquery/dist/jquery.min.js";
-import { About } from "./About/About";
-import { Contact } from "./Contact/Contact";
-import { Layout } from "./Layout/Layout";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { Navbar } from "./Navbar/Navbar";
+import  About  from "./About/About";
+import  Contact  from "./Contact/Contact";
+import  Layout  from "./Layout/Layout";
+import  { RouterProvider, createBrowserRouter}  from "react-router-dom";
+import  Navbar  from "./Navbar/Navbar";
 const routers = createBrowserRouter([
   {
     path: "",
