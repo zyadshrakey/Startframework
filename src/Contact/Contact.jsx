@@ -4,7 +4,6 @@ export default class Contact extends Component {
   render() {
     return (
       <>
-        {" "}
         <div className="container">
           <h1 className="text-center p-4 m-0">Contact Section</h1>
           <div className="total-lines d-flex justify-content-center  align-items-center m-0">
