@@ -4,7 +4,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import Portfolio from "./Portfolio/Portfolio";
 import Home from "./Home/Home";
-import "jquery/dist/jquery.min.js";
 import About from "./About/About";
 import Contact from "./Contact/Contact";
 import Layout from "./Layout/Layout";
