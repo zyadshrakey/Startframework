@@ -29,10 +29,10 @@ export default class extends Component {
           </div>
           <div className="container-fluid bg-dark text-center">
             <p className="text-white  m-0 p-3">
-              Copyright © Ahmed Elshahat 2023
+              Copyright © ziad mohamed 2024
             </p>
           </div>
-        </footer>{" "}
+        </footer>
       </>
     );
   }
