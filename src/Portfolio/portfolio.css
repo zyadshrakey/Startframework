@@ -1,0 +1,19 @@
+.layer {
+  background-color: #1ebc9c;
+  cursor: pointer;
+  opacity: 0 !important;
+
+  transition: opacity 0.7s;
+}
+.layer:hover {
+  opacity: 65% !important;
+}
+img {
+  overflow: hidden !important;
+}
+.line-before,
+.line-after {
+  width: 100px;
+  height: 5px;
+  background-color: #2c3e50 !important;
+}

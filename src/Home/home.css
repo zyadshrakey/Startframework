@@ -1,0 +1,13 @@
+.line-before-home,
+.line-after-home {
+  width: 100px;
+  height: 5px;
+  background-color: #fff !important;
+}
+.star {
+  background-color: #1abc9c !important;
+}
+.home {
+  background-color: #1abc9c !important;
+  color: #fff;
+}

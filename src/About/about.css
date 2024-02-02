@@ -1,0 +1,10 @@
+.line-before-about,
+.line-after-about {
+  width: 100px;
+  height: 5px;
+  background-color: #fff !important;
+}
+.about-sec,
+.star {
+  background-color: #1abc9c !important;
+}
